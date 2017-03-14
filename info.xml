@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<extension key="org.ilga.generic" type="module">
+  <file>generic</file>
+  <name>Ilga generic extension</name>
+  <description>General functionality that Ilga needs</description>
+  <license>AGPL-3.0</license>
+  <maintainer>
+    <author>Klaas Eikelboom</author>
+    <email>klaas.eikelboom@civicoop.org</email>
+  </maintainer>
+  <urls>
+    <url desc="Main Extension Page">https://github.com/CiviCooP/org.ilga.generic</url>
+    <url desc="Documentation">https://civicoop.plan.io/projects/ilga-world-civicrm-proof-of-concept/wiki/IlgaGeneric</url>
+    <url desc="Support">http://civicoop.org/</url>
+    <url desc="Licensing">http://www.gnu.org/licenses/agpl-3.0.html</url>
+  </urls>
+  <releaseDate>2017-03-13</releaseDate>
+  <version>1.0</version>
+  <develStage>alpha</develStage>
+  <compatibility>
+    <ver>4.7</ver>
+  </compatibility>
+  <comments>This is a new, undeveloped module</comments>
+  <civix>
+    <namespace>CRM/Generic</namespace>
+  </civix>
+</extension>
